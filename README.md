@@ -1,2 +1,2 @@
 # vue-myMusic
-vue.js applicatino
+vue.js application
