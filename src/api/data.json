@@ -1,0 +1,485 @@
+{
+  "list": [
+    {
+      "dissid":  "4046588978",
+      "createtime": "2018-05-14",
+      "commit_time": "2018-05-14",
+      "dissname": "中国音乐家演奏的西方古典音乐my favauriout songs doyou like it",
+      "imgurl": "http://p.qpic.cn/music_cover/ibKysY6Vl2IgkWH1bXsvHA9p7M4BicwIWHhWhe7m07nv58R2VNqNsPfw/600?n=1",
+      "introduction": "",
+      "listennum": 10980,
+      "score": 0.0,
+      "version": 0,
+      "creator": {
+        "type": 2,
+        "qq": 1146763218,
+        "encrypt_uin": "oK6P7wSsoi-5Nn**",
+        "name": "喜欢吃钙片",
+        "isVip": 2,
+        "avatarUrl":"",
+        "followflag": 0
+      }
+    },
+    {
+      "dissid": "3839981302",
+      "createtime": "2018-05-04",
+      "commit_time": "2018-05-04",
+      "dissname": "尤克里里 | 指尖阳光，夏日好心情",
+      "imgurl": "http://p.qpic.cn/music_cover/yyDR0yDpzJMiauiaIribblrEic9c4f2icD4UrKAfSXLxkwxBvYKubXHHjgw/600?n=1",
+      "introduction": "",
+      "listennum": 14593,
+      "score": 0.0,
+      "version": 0,
+      "creator": {
+        "type": 0,
+        "qq": 3370846450,
+        "encrypt_uin": "oioloecP7wvkon**",
+        "name": "二哈喇雪迪苗",
+        "isVip": 0,
+        "avatarUrl": "",
+        "followflag": 0
+      }
+    },
+    {
+      "dissid": "4031944968",
+      "createtime": "2018-05-14",
+      "commit_time": "2018-05-14",
+      "dissname": "唯美主义 Melodic Dubstep ",
+      "imgurl": "http://p.qpic.cn/music_cover/Q6jzKPNCPTc2iczypkicqzaLx33QdEzyt1aIeia1KTsxYZuv7icwRfaFPw/600?n=1",
+      "introduction": "",
+      "listennum": 13461,
+      "score": 0.0,
+      "version": 0,
+      "creator": {
+        "type": 0,
+        "qq": 775670247,
+        "encrypt_uin": "7iSk7wSzowvl",
+        "name": "杰少",
+        "isVip": 0,
+        "avatarUrl": "",
+        "followflag": 0
+      }
+    },
+    {
+      "dissid": "3992179073",
+      "createtime": "2018-05-09",
+      "commit_time": "2018-05-09",
+      "dissname": "戛纳历届提名的华语电影",
+      "imgurl": "http://p.qpic.cn/music_cover/jCPNL5FMs23Uk4XAo5aTmTbVrJiaTq0ur9vjYlkOSpQjV4D4H9ghoMg/600?n=1",
+      "introduction": "",
+      "listennum": 12816,
+      "score": 0.0,
+      "version": 0,
+      "creator": {
+        "type": 0,
+        "qq": 2717056190,
+        "encrypt_uin": "owS57ink7w6qon**",
+        "name": "热云赫赫拉",
+        "isVip": 0,
+        "avatarUrl": "",
+        "followflag": 0
+      }
+    },
+    {
+      "dissid": "4016734866",
+      "createtime": "2018-05-11",
+      "commit_time": "2018-05-11",
+      "dissname": "B榜历届年冠R&B单曲",
+      "imgurl": "http://p.qpic.cn/music_cover/nDEZhEolBibyCLoia8Tssu01K8J026POiarsbeLZnw1AGQb19ulVPX4Jw/600?n=1",
+      "introduction": "",
+      "listennum": 20153,
+      "score": 0.0,
+      "version": 0,
+      "creator": {
+        "type": 0,
+        "qq": 3042217590,
+        "encrypt_uin": "oinPow-57i4qon**",
+        "name": "不稀饭棉花糖の萝莉",
+        "isVip": 0,
+        "avatarUrl": "",
+        "followflag": 0
+      }
+    },
+    {
+      "dissid": "4015057517",
+      "createtime": "2018-05-11",
+      "commit_time": "2018-05-11",
+      "dissname": "清风莞月浮舟游 · 夏日采风",
+      "imgurl": "http://p.qpic.cn/music_cover/UCJDptU3vGgQt6PS5Hn6CzmNOAaNyR5ibKU5WbKnvWEAuTT5xOhMyiaA/600?n=1",
+      "introduction": "",
+      "listennum": 54629,
+      "score": 0.0,
+      "version": 0,
+      "creator": {
+        "type": 2,
+        "qq": 188651765,
+        "encrypt_uin": "oKcF7w457iCk",
+        "name": "生如夏花",
+        "isVip": 2,
+        "avatarUrl": "",
+        "followflag": 0
+      }
+    },
+    {
+      "dissid":  "4046588978",
+      "createtime": "2018-05-14",
+      "commit_time": "2018-05-14",
+      "dissname": "中国音乐家演奏的西方古典音乐my favauriout songs doyou like it",
+      "imgurl": "http://p.qpic.cn/music_cover/ibKysY6Vl2IgkWH1bXsvHA9p7M4BicwIWHhWhe7m07nv58R2VNqNsPfw/600?n=1",
+      "introduction": "",
+      "listennum": 10980,
+      "score": 0.0,
+      "version": 0,
+      "creator": {
+        "type": 2,
+        "qq": 1146763218,
+        "encrypt_uin": "oK6P7wSsoi-5Nn**",
+        "name": "喜欢吃钙片",
+        "isVip": 2,
+        "avatarUrl":"",
+        "followflag": 0
+      }
+    },
+    {
+      "dissid": "3839981302",
+      "createtime": "2018-05-04",
+      "commit_time": "2018-05-04",
+      "dissname": "尤克里里 | 指尖阳光，夏日好心情",
+      "imgurl": "http://p.qpic.cn/music_cover/yyDR0yDpzJMiauiaIribblrEic9c4f2icD4UrKAfSXLxkwxBvYKubXHHjgw/600?n=1",
+      "introduction": "",
+      "listennum": 14593,
+      "score": 0.0,
+      "version": 0,
+      "creator": {
+        "type": 0,
+        "qq": 3370846450,
+        "encrypt_uin": "oioloecP7wvkon**",
+        "name": "二哈喇雪迪苗",
+        "isVip": 0,
+        "avatarUrl": "",
+        "followflag": 0
+      }
+    },
+    {
+      "dissid": "4031944968",
+      "createtime": "2018-05-14",
+      "commit_time": "2018-05-14",
+      "dissname": "唯美主义 Melodic Dubstep ",
+      "imgurl": "http://p.qpic.cn/music_cover/Q6jzKPNCPTc2iczypkicqzaLx33QdEzyt1aIeia1KTsxYZuv7icwRfaFPw/600?n=1",
+      "introduction": "",
+      "listennum": 13461,
+      "score": 0.0,
+      "version": 0,
+      "creator": {
+        "type": 0,
+        "qq": 775670247,
+        "encrypt_uin": "7iSk7wSzowvl",
+        "name": "杰少",
+        "isVip": 0,
+        "avatarUrl": "",
+        "followflag": 0
+      }
+    },
+    {
+      "dissid": "3992179073",
+      "createtime": "2018-05-09",
+      "commit_time": "2018-05-09",
+      "dissname": "戛纳历届提名的华语电影",
+      "imgurl": "http://p.qpic.cn/music_cover/jCPNL5FMs23Uk4XAo5aTmTbVrJiaTq0ur9vjYlkOSpQjV4D4H9ghoMg/600?n=1",
+      "introduction": "",
+      "listennum": 12816,
+      "score": 0.0,
+      "version": 0,
+      "creator": {
+        "type": 0,
+        "qq": 2717056190,
+        "encrypt_uin": "owS57ink7w6qon**",
+        "name": "热云赫赫拉",
+        "isVip": 0,
+        "avatarUrl": "",
+        "followflag": 0
+      }
+    },
+    {
+      "dissid": "4016734866",
+      "createtime": "2018-05-11",
+      "commit_time": "2018-05-11",
+      "dissname": "B榜历届年冠R&B单曲",
+      "imgurl": "http://p.qpic.cn/music_cover/nDEZhEolBibyCLoia8Tssu01K8J026POiarsbeLZnw1AGQb19ulVPX4Jw/600?n=1",
+      "introduction": "",
+      "listennum": 20153,
+      "score": 0.0,
+      "version": 0,
+      "creator": {
+        "type": 0,
+        "qq": 3042217590,
+        "encrypt_uin": "oinPow-57i4qon**",
+        "name": "不稀饭棉花糖の萝莉",
+        "isVip": 0,
+        "avatarUrl": "",
+        "followflag": 0
+      }
+    },
+    {
+      "dissid": "4015057517",
+      "createtime": "2018-05-11",
+      "commit_time": "2018-05-11",
+      "dissname": "清风莞月浮舟游 · 夏日采风",
+      "imgurl": "http://p.qpic.cn/music_cover/UCJDptU3vGgQt6PS5Hn6CzmNOAaNyR5ibKU5WbKnvWEAuTT5xOhMyiaA/600?n=1",
+      "introduction": "",
+      "listennum": 54629,
+      "score": 0.0,
+      "version": 0,
+      "creator": {
+        "type": 2,
+        "qq": 188651765,
+        "encrypt_uin": "oKcF7w457iCk",
+        "name": "生如夏花",
+        "isVip": 2,
+        "avatarUrl": "",
+        "followflag": 0
+      }
+    },
+    {
+      "dissid":  "4046588978",
+      "createtime": "2018-05-14",
+      "commit_time": "2018-05-14",
+      "dissname": "中国音乐家演奏的西方古典音乐my favauriout songs doyou like it",
+      "imgurl": "http://p.qpic.cn/music_cover/ibKysY6Vl2IgkWH1bXsvHA9p7M4BicwIWHhWhe7m07nv58R2VNqNsPfw/600?n=1",
+      "introduction": "",
+      "listennum": 10980,
+      "score": 0.0,
+      "version": 0,
+      "creator": {
+        "type": 2,
+        "qq": 1146763218,
+        "encrypt_uin": "oK6P7wSsoi-5Nn**",
+        "name": "喜欢吃钙片",
+        "isVip": 2,
+        "avatarUrl":"",
+        "followflag": 0
+      }
+    },
+    {
+      "dissid": "3839981302",
+      "createtime": "2018-05-04",
+      "commit_time": "2018-05-04",
+      "dissname": "尤克里里 | 指尖阳光，夏日好心情",
+      "imgurl": "http://p.qpic.cn/music_cover/yyDR0yDpzJMiauiaIribblrEic9c4f2icD4UrKAfSXLxkwxBvYKubXHHjgw/600?n=1",
+      "introduction": "",
+      "listennum": 14593,
+      "score": 0.0,
+      "version": 0,
+      "creator": {
+        "type": 0,
+        "qq": 3370846450,
+        "encrypt_uin": "oioloecP7wvkon**",
+        "name": "二哈喇雪迪苗",
+        "isVip": 0,
+        "avatarUrl": "",
+        "followflag": 0
+      }
+    },
+    {
+      "dissid": "4031944968",
+      "createtime": "2018-05-14",
+      "commit_time": "2018-05-14",
+      "dissname": "唯美主义 Melodic Dubstep ",
+      "imgurl": "http://p.qpic.cn/music_cover/Q6jzKPNCPTc2iczypkicqzaLx33QdEzyt1aIeia1KTsxYZuv7icwRfaFPw/600?n=1",
+      "introduction": "",
+      "listennum": 13461,
+      "score": 0.0,
+      "version": 0,
+      "creator": {
+        "type": 0,
+        "qq": 775670247,
+        "encrypt_uin": "7iSk7wSzowvl",
+        "name": "杰少",
+        "isVip": 0,
+        "avatarUrl": "",
+        "followflag": 0
+      }
+    },
+    {
+      "dissid": "3992179073",
+      "createtime": "2018-05-09",
+      "commit_time": "2018-05-09",
+      "dissname": "戛纳历届提名的华语电影",
+      "imgurl": "http://p.qpic.cn/music_cover/jCPNL5FMs23Uk4XAo5aTmTbVrJiaTq0ur9vjYlkOSpQjV4D4H9ghoMg/600?n=1",
+      "introduction": "",
+      "listennum": 12816,
+      "score": 0.0,
+      "version": 0,
+      "creator": {
+        "type": 0,
+        "qq": 2717056190,
+        "encrypt_uin": "owS57ink7w6qon**",
+        "name": "热云赫赫拉",
+        "isVip": 0,
+        "avatarUrl": "",
+        "followflag": 0
+      }
+    },
+    {
+      "dissid": "4016734866",
+      "createtime": "2018-05-11",
+      "commit_time": "2018-05-11",
+      "dissname": "B榜历届年冠R&B单曲",
+      "imgurl": "http://p.qpic.cn/music_cover/nDEZhEolBibyCLoia8Tssu01K8J026POiarsbeLZnw1AGQb19ulVPX4Jw/600?n=1",
+      "introduction": "",
+      "listennum": 20153,
+      "score": 0.0,
+      "version": 0,
+      "creator": {
+        "type": 0,
+        "qq": 3042217590,
+        "encrypt_uin": "oinPow-57i4qon**",
+        "name": "不稀饭棉花糖の萝莉",
+        "isVip": 0,
+        "avatarUrl": "",
+        "followflag": 0
+      }
+    },
+    {
+      "dissid": "4015057517",
+      "createtime": "2018-05-11",
+      "commit_time": "2018-05-11",
+      "dissname": "清风莞月浮舟游 · 夏日采风",
+      "imgurl": "http://p.qpic.cn/music_cover/UCJDptU3vGgQt6PS5Hn6CzmNOAaNyR5ibKU5WbKnvWEAuTT5xOhMyiaA/600?n=1",
+      "introduction": "",
+      "listennum": 54629,
+      "score": 0.0,
+      "version": 0,
+      "creator": {
+        "type": 2,
+        "qq": 188651765,
+        "encrypt_uin": "oKcF7w457iCk",
+        "name": "生如夏花",
+        "isVip": 2,
+        "avatarUrl": "",
+        "followflag": 0
+      }
+    },
+    {
+      "dissid":  "4046588978",
+      "createtime": "2018-05-14",
+      "commit_time": "2018-05-14",
+      "dissname": "中国音乐家演奏的西方古典音乐my favauriout songs doyou like it",
+      "imgurl": "http://p.qpic.cn/music_cover/ibKysY6Vl2IgkWH1bXsvHA9p7M4BicwIWHhWhe7m07nv58R2VNqNsPfw/600?n=1",
+      "introduction": "",
+      "listennum": 10980,
+      "score": 0.0,
+      "version": 0,
+      "creator": {
+        "type": 2,
+        "qq": 1146763218,
+        "encrypt_uin": "oK6P7wSsoi-5Nn**",
+        "name": "喜欢吃钙片",
+        "isVip": 2,
+        "avatarUrl":"",
+        "followflag": 0
+      }
+    },
+    {
+      "dissid": "3839981302",
+      "createtime": "2018-05-04",
+      "commit_time": "2018-05-04",
+      "dissname": "尤克里里 | 指尖阳光，夏日好心情",
+      "imgurl": "http://p.qpic.cn/music_cover/yyDR0yDpzJMiauiaIribblrEic9c4f2icD4UrKAfSXLxkwxBvYKubXHHjgw/600?n=1",
+      "introduction": "",
+      "listennum": 14593,
+      "score": 0.0,
+      "version": 0,
+      "creator": {
+        "type": 0,
+        "qq": 3370846450,
+        "encrypt_uin": "oioloecP7wvkon**",
+        "name": "二哈喇雪迪苗",
+        "isVip": 0,
+        "avatarUrl": "",
+        "followflag": 0
+      }
+    },
+    {
+      "dissid": "4031944968",
+      "createtime": "2018-05-14",
+      "commit_time": "2018-05-14",
+      "dissname": "唯美主义 Melodic Dubstep ",
+      "imgurl": "http://p.qpic.cn/music_cover/Q6jzKPNCPTc2iczypkicqzaLx33QdEzyt1aIeia1KTsxYZuv7icwRfaFPw/600?n=1",
+      "introduction": "",
+      "listennum": 13461,
+      "score": 0.0,
+      "version": 0,
+      "creator": {
+        "type": 0,
+        "qq": 775670247,
+        "encrypt_uin": "7iSk7wSzowvl",
+        "name": "杰少",
+        "isVip": 0,
+        "avatarUrl": "",
+        "followflag": 0
+      }
+    },
+    {
+      "dissid": "3992179073",
+      "createtime": "2018-05-09",
+      "commit_time": "2018-05-09",
+      "dissname": "戛纳历届提名的华语电影",
+      "imgurl": "http://p.qpic.cn/music_cover/jCPNL5FMs23Uk4XAo5aTmTbVrJiaTq0ur9vjYlkOSpQjV4D4H9ghoMg/600?n=1",
+      "introduction": "",
+      "listennum": 12816,
+      "score": 0.0,
+      "version": 0,
+      "creator": {
+        "type": 0,
+        "qq": 2717056190,
+        "encrypt_uin": "owS57ink7w6qon**",
+        "name": "热云赫赫拉",
+        "isVip": 0,
+        "avatarUrl": "",
+        "followflag": 0
+      }
+    },
+    {
+      "dissid": "4016734866",
+      "createtime": "2018-05-11",
+      "commit_time": "2018-05-11",
+      "dissname": "B榜历届年冠R&B单曲",
+      "imgurl": "http://p.qpic.cn/music_cover/nDEZhEolBibyCLoia8Tssu01K8J026POiarsbeLZnw1AGQb19ulVPX4Jw/600?n=1",
+      "introduction": "",
+      "listennum": 20153,
+      "score": 0.0,
+      "version": 0,
+      "creator": {
+        "type": 0,
+        "qq": 3042217590,
+        "encrypt_uin": "oinPow-57i4qon**",
+        "name": "不稀饭棉花糖の萝莉",
+        "isVip": 0,
+        "avatarUrl": "",
+        "followflag": 0
+      }
+    },
+    {
+      "dissid": "4015057517",
+      "createtime": "2018-05-11",
+      "commit_time": "2018-05-11",
+      "dissname": "清风莞月浮舟游 · 夏日采风",
+      "imgurl": "http://p.qpic.cn/music_cover/UCJDptU3vGgQt6PS5Hn6CzmNOAaNyR5ibKU5WbKnvWEAuTT5xOhMyiaA/600?n=1",
+      "introduction": "",
+      "listennum": 54629,
+      "score": 0.0,
+      "version": 0,
+      "creator": {
+        "type": 2,
+        "qq": 188651765,
+        "encrypt_uin": "oKcF7w457iCk",
+        "name": "生如夏花",
+        "isVip": 2,
+        "avatarUrl": "",
+        "followflag": 0
+      }
+    }
+    ]
+
+}
